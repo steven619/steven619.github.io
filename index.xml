@@ -6,20 +6,25 @@
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 00:21:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:21:42 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/post/kkk/</link>
-      <pubDate>Sun, 17 May 2020 00:21:42 +0800</pubDate>
+      <title>linux配置问题</title>
+      <link>http://localhost:1313/post/linux%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 18 May 2020 00:21:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/kkk/</guid>
+      <guid>http://localhost:1313/post/linux%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98/</guid>
       
-        <description>&lt;p&gt;xxxxxxx&lt;/p&gt;
-</description>
+        <description>&lt;h1 id=&#34;基础--linux的发行版本&#34;&gt;基础  linux的发行版本&lt;/h1&gt;
+&lt;h2 id=&#34;arch主要使用&#34;&gt;arch（主要使用）&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;* sudo pacman -Syu&lt;/code&gt;系统每次更新 （软件库和系统）&lt;/p&gt;
+&lt;h2 id=&#34;无线网的配置&#34;&gt;无线网的配置&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-sudo&#34; data-lang=&#34;sudo&#34;&gt;    sudo netctl list   展示wifi列表
+    sudo netctl enable xxx  默认连接的无线
+&lt;/code&gt;&lt;/pre&gt;</description>
       
     </item>
     
