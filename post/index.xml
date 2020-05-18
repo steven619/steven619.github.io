@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2020 00:21:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>github 的使用</title>
+      <link>http://localhost:1313/post/github%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/github%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <description>提交仓库</description>
+    </item>
     
     <item>
       <title>linux配置问题</title>
