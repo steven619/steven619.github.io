@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 00:21:42 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/kkk/</link>
+      <pubDate>Sun, 17 May 2020 00:21:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/kkk/</guid>
+      <description>xxxxxxx</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 00:21:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>树莓派 设置 SSH 通过密钥登录 制作密钥对 首先在服务器上制作密钥对。首先用密码登录到你打算使用密钥登录的账户，然后执行以下命令： [root@host ~]$ ssh-keygen &amp;lt;== 建立密钥对 Generating</description>
+    </item>
+    
+  </channel>
+</rss>
