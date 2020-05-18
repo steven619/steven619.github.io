@@ -17,7 +17,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/github%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
-      <description>提交仓库</description>
+      <description>提交仓库 (博客 post)、 2.进入 被打包的文件下 git add . 3.git commit -m &#39;xxxx&#39; 4.git push https://zhuanlan.zhihu.com/p/129854679 &amp;mdash;仓库的 使用</description>
     </item>
     
     <item>
@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <title>数梅派 </title>
+      <link>http://localhost:1313/post/%E6%95%B0%E6%A2%85%E6%B4%BE/</link>
       <pubDate>Sun, 17 May 2020 00:21:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>http://localhost:1313/post/%E6%95%B0%E6%A2%85%E6%B4%BE/</guid>
       <description>树莓派 设置 SSH 通过密钥登录 制作密钥对 首先在服务器上制作密钥对。首先用密码登录到你打算使用密钥登录的账户，然后执行以下命令： [root@host ~]$ ssh-keygen &amp;lt;== 建立密钥对 Generating</description>
     </item>
     

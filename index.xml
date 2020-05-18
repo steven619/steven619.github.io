@@ -18,7 +18,11 @@
       
       <guid>http://localhost:1313/post/github%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
       
-        <description>&lt;h2 id=&#34;提交仓库&#34;&gt;提交仓库&lt;/h2&gt;
+        <description>&lt;h2 id=&#34;提交仓库--博客-post&#34;&gt;提交仓库  (博客 post)、&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-1.先&#34; data-lang=&#34;1.先&#34;&gt;2.进入 被打包的文件下 git add .
+3.git commit -m &#39;xxxx&#39;
+4.git push
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/129854679&#34;&gt;https://zhuanlan.zhihu.com/p/129854679&lt;/a&gt;  &amp;mdash;仓库的 使用&lt;/p&gt;
 </description>
       
     </item>
@@ -41,11 +45,11 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <title>数梅派 </title>
+      <link>http://localhost:1313/post/%E6%95%B0%E6%A2%85%E6%B4%BE/</link>
       <pubDate>Sun, 17 May 2020 00:21:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>http://localhost:1313/post/%E6%95%B0%E6%A2%85%E6%B4%BE/</guid>
       
         <description>&lt;h1 id=&#34;树莓派&#34;&gt;树莓派&lt;/h1&gt;
 &lt;h2 id=&#34;设置-ssh-通过密钥登录&#34;&gt;设置 SSH 通过密钥登录&lt;/h2&gt;
@@ -122,9 +126,6 @@ ClientAliveCountMax 720
 &lt;/ul&gt;
 &lt;pre&gt;&lt;code&gt;/etc/init.d/ssh restart
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;再打开新终端连接就可以了。&lt;/p&gt;
-&lt;h1 id=&#34;基础--linxu的发行版本&#34;&gt;基础  linxu的发行版本&lt;/h1&gt;
-&lt;h2 id=&#34;arch主要使用&#34;&gt;arch（主要使用）&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;* sudo pacman -Syu&lt;/code&gt;系统每次更新 （软件库和系统）&lt;/p&gt;
 </description>
       
     </item>
